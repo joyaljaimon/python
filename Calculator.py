@@ -1,12 +1,12 @@
 import time
-print("Calculator Initiating")
+print("Calculator Loading, Please Wait")
 
 Number1 = input("Please enter your first number:")
 Number2 = input("Please enter your second number:")
 Question = input("Which operation (add,multiply,divide) do you want to perform? :")
 
 add = "add"
-if Question == add:
+if Question == addition:
     print("You have opted to add")
     time.sleep(1)
     print("Please wait")
