@@ -1,5 +1,5 @@
 import time
-print("Calculator Initiating")
+print("Calculator Loading, Please Wait")
 
 Number1 = input("Please enter your first number:")
 Number2 = input("Please enter your second number:")
